@@ -23,6 +23,7 @@ To get started with the Student Management System, simply download or clone the 
 
 Here are few images of the working of this application window:
 
+![mainwindow](https://user-images.githubusercontent.com/98892759/233778512-dbc9b07b-3d42-4a77-aeca-64542fed5a90.png)
 ![takeinput](https://user-images.githubusercontent.com/98892759/233777492-857b9e83-abf7-4393-a808-b7964f5a058f.png)
 ![showrecords](https://user-images.githubusercontent.com/98892759/233777710-be4bb26c-7fec-4c9e-949d-b85c9ea17dac.png)
 ![deleterecord](https://user-images.githubusercontent.com/98892759/233777711-1ac1dc31-a191-4cb8-bb1d-ac5310677bee.png)
