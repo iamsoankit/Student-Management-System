@@ -12,14 +12,15 @@ In addition, we used the Tkinter library, which is a standard GUI toolkit for Py
 Overall, the combination of MySQL Connector/Python and Tkinter enabled us to build an efficient and effective student management system that simplifies the management of student details.
 
 ## Features
-Add new students to the system
-Update existing student information
-Delete students from the system
-View a list of all students and their details
+- Add new students to the system
+- Update existing student information
+- Delete students from the system
+- View a list of all students and their details
+
 
 ## Getting Started 
 
-To get started with the Student Management System, simply download or clone the repository using Gitbash and run the ABC.py file. The system is built using Python 3 and requires no additional libraries or dependencies.
+To get started with the Student Management System, simply download or clone the repository using Git Bash and run the ABC.py file. The system is built using Python 3 and requires no additional libraries or dependencies.
 
 Here are few images of the working of this application window:
 
